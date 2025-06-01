@@ -2,7 +2,8 @@
 
 GitHub上のソースコードを読み解く力を鍛える、エンジニア向けのクイズ形式コード読解ツールです。
 
-![screenshot](https://user-images.githubusercontent.com/your-username/code-mystery-demo.png)
+
+![スクリーンショット 2025-06-01 15 38 28](https://github.com/user-attachments/assets/493196cf-eca2-4848-a21c-27840e26419f)
 
 ---
 
